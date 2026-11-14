@@ -1,0 +1,29 @@
+Analysis,Attribute,Comparison,Difference,CI low,CI high
+Refit without online booking,Departure and Arrival Time Convenience,Personal minus business,-0.055571795,-0.0660863384604454,-0.044165226817131045
+Refit without online booking,Departure and Arrival Time Convenience,First-time minus returning,0.19217409,0.1769188277423382,0.20535236038267612
+Refit without online booking,Ease of Online Booking,Personal minus business,0.0,0.0,0.0
+Refit without online booking,Ease of Online Booking,First-time minus returning,0.0,0.0,0.0
+Refit without online booking,Check-in Service,Personal minus business,-0.24411228,-0.2661462679505348,-0.22133180648088455
+Refit without online booking,Check-in Service,First-time minus returning,-0.08203301,-0.11245727688074111,-0.051491559296846394
+Refit without online booking,Online Boarding,Personal minus business,-0.7728791,-0.8197151303291321,-0.7331039905548096
+Refit without online booking,Online Boarding,First-time minus returning,-0.15441012,-0.20855233073234558,-0.09894142150878908
+Refit without online booking,Gate Location,Personal minus business,0.1774072,0.1627970788627863,0.1908150490373373
+Refit without online booking,Gate Location,First-time minus returning,0.104439065,0.08823389559984207,0.11993214339017869
+Refit without online booking,On-board Service,Personal minus business,-0.13319707,-0.1438323065638542,-0.12302632629871368
+Refit without online booking,On-board Service,First-time minus returning,0.017839968,0.0028841301798820497,0.03353201225399971
+Refit without online booking,Seat Comfort,Personal minus business,-0.25625414,-0.2757107727229595,-0.2379501350224018
+Refit without online booking,Seat Comfort,First-time minus returning,-0.18590152,-0.2043559469282627,-0.1675275877118111
+Refit without online booking,Leg Room Service,Personal minus business,-0.17812863,-0.18656914979219436,-0.16938601359725
+Refit without online booking,Leg Room Service,First-time minus returning,-0.1959109,-0.20486256331205369,-0.1871646024286747
+Refit without online booking,Cleanliness,Personal minus business,-0.12098892,-0.1345679622143507,-0.10614132657647134
+Refit without online booking,Cleanliness,First-time minus returning,-0.07921332,-0.093239676207304,-0.06431110054254532
+Refit without online booking,Food and Drink,Personal minus business,-0.014062107,-0.01789519879966974,-0.010516280308365822
+Refit without online booking,Food and Drink,First-time minus returning,0.015170258,0.010537827108055352,0.019681319780647754
+Refit without online booking,In-flight Service,Personal minus business,-0.18726721,-0.2036693200469017,-0.17141588106751443
+Refit without online booking,In-flight Service,First-time minus returning,0.035081863,0.009296835958957672,0.05796494409441948
+Refit without online booking,In-flight Wifi Service,Personal minus business,1.7120619,1.5246185779571533,1.8958696365356444
+Refit without online booking,In-flight Wifi Service,First-time minus returning,0.6296177,0.44724607467651367,0.8270732760429382
+Refit without online booking,In-flight Entertainment,Personal minus business,-0.27005604,-0.28452626541256903,-0.25656733140349386
+Refit without online booking,In-flight Entertainment,First-time minus returning,-0.15463859,-0.16982306838035582,-0.13739984780550005
+Refit without online booking,Baggage Handling,Personal minus business,-0.2634005,-0.2817476332187653,-0.24577053189277648
+Refit without online booking,Baggage Handling,First-time minus returning,-0.10018736,-0.12574851363897324,-0.07429510727524759

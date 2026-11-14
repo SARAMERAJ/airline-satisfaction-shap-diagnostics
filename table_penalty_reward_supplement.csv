@@ -1,0 +1,71 @@
+Segment,Attribute,Penalty (1-2 vs 3),Reward (4-5 vs 3),IA CI low,IA CI high,Type
+All,Departure and Arrival Time Convenience,0.017463967,-0.39043632,,,Reversed
+All,Ease of Online Booking,-0.100944236,0.20371217,0.31428593695163726,0.36307840198278424,Excitement
+All,Check-in Service,-0.37753797,0.35397106,-0.052813617046922445,-0.013211900414899003,Performance
+All,Online Boarding,0.08385086,2.952592,1.0,1.0,Excitement
+All,Gate Location,0.20554847,-0.22386834,,,Reversed
+All,On-board Service,-0.14800058,0.21763885,0.17089712545275687,0.2118768710643053,Performance
+All,Seat Comfort,0.19920301,0.55582625,1.0,1.0,Excitement
+All,Leg Room Service,-0.0021648556,0.4121018,0.9584017246961594,1.0,Excitement
+All,Cleanliness,-0.18603963,0.22176707,0.06873952746391296,0.10677012875676155,Performance
+All,Food and Drink,-0.056613866,0.0030759387,-0.950725656747818,-0.8471905618906022,Weak
+All,In-flight Service,0.25843158,0.5229781,1.0,1.0,Excitement
+All,In-flight Wifi Service,-0.28734696,4.1043015,0.8565089091658592,0.8819185391068458,Excitement
+All,In-flight Entertainment,-0.2781461,0.24846113,-0.0891845090314746,-0.025067351479083424,Performance
+All,Baggage Handling,0.23586194,0.67451835,1.0,1.0,Excitement
+Business travel,Departure and Arrival Time Convenience,0.012671903,-0.35194623,,,Reversed
+Business travel,Ease of Online Booking,-0.080890425,0.1631217,0.30750844776630404,0.36949614360928534,Excitement
+Business travel,Check-in Service,-0.44050527,0.39683735,-0.07587228305637836,-0.02722954666242004,Performance
+Business travel,Online Boarding,0.09754372,3.2175326,1.0,1.0,Excitement
+Business travel,Gate Location,0.22698432,-0.24579045,,,Reversed
+Business travel,On-board Service,-0.17554666,0.24085474,0.1305162224918604,0.1804276615381241,Performance
+Business travel,Seat Comfort,0.23687522,0.6564838,1.0,1.0,Excitement
+Business travel,Leg Room Service,0.012760431,0.475851,1.0,1.0,Excitement
+Business travel,Cleanliness,-0.2336992,0.23776978,-0.015778658748604357,0.03029010347090659,Performance
+Business travel,Food and Drink,-0.066201776,0.008031604,-0.8359762445092201,-0.731536863744259,Weak
+Business travel,In-flight Service,0.2938084,0.5916635,1.0,1.0,Excitement
+Business travel,In-flight Wifi Service,-0.2635579,3.625998,0.8479325279593468,0.8830374628305435,Excitement
+Business travel,In-flight Entertainment,-0.32643345,0.30448988,-0.07312080767005683,0.006328718340955665,Performance
+Business travel,Baggage Handling,0.24040651,0.75208634,1.0,1.0,Excitement
+Personal travel,Departure and Arrival Time Convenience,0.027143776,-0.39756367,,,Reversed
+Personal travel,Ease of Online Booking,-0.14215891,0.3321643,0.37007957696914673,0.42654525935649873,Excitement
+Personal travel,Check-in Service,-0.21977413,0.26237828,0.06286748042330145,0.11889271475374696,Performance
+Personal travel,Online Boarding,0.019613862,2.363449,1.0,1.0,Excitement
+Personal travel,Gate Location,0.1385894,-0.18033561,,,Reversed
+Personal travel,On-board Service,-0.08676952,0.16613367,0.2769886329770088,0.3473038129508495,Excitement
+Personal travel,Seat Comfort,0.09983656,0.33779836,1.0,1.0,Excitement
+Personal travel,Leg Room Service,-0.021090195,0.26763567,0.8098589941859246,0.9040148302912712,Excitement
+Personal travel,Cleanliness,-0.10481361,0.18025354,0.2361756917089224,0.29227975904941556,Excitement
+Personal travel,Food and Drink,-0.038036354,-0.009861988,-1.0,-1.0,Weak
+Personal travel,In-flight Service,0.1763221,0.37138045,1.0,1.0,Excitement
+Personal travel,In-flight Wifi Service,-0.4115293,5.209057,0.8444163277745247,0.8620405212044716,Excitement
+Personal travel,In-flight Entertainment,-0.21163218,0.099085525,-0.39840397983789444,-0.3173415690660477,Basic
+Personal travel,Baggage Handling,0.20326602,0.49920538,1.0,1.0,Excitement
+Returning customers,Departure and Arrival Time Convenience,0.039996743,-0.39975858,,,Reversed
+Returning customers,Ease of Online Booking,-0.09773426,0.19316645,0.30263721793889997,0.3521427847445011,Excitement
+Returning customers,Check-in Service,-0.37929282,0.3704682,-0.03536718292161822,0.01283319420181214,Performance
+Returning customers,Online Boarding,0.13670051,2.9896305,1.0,1.0,Excitement
+Returning customers,Gate Location,0.20106314,-0.24054949,,,Reversed
+Returning customers,On-board Service,-0.1277282,0.22452486,0.25092019885778427,0.3007708303630352,Excitement
+Returning customers,Seat Comfort,0.21555723,0.6009485,1.0,1.0,Excitement
+Returning customers,Leg Room Service,0.0018553436,0.45097223,0.9770805731415748,1.0,Excitement
+Returning customers,Cleanliness,-0.20448315,0.23317425,0.04143554363399744,0.08776368275284767,Performance
+Returning customers,Food and Drink,-0.054561216,-0.0010937406,-1.0,-0.9707808017730714,Weak
+Returning customers,In-flight Service,0.23863822,0.51152134,1.0,1.0,Excitement
+Returning customers,In-flight Wifi Service,-0.21583843,4.0441556,0.8825559362769126,0.9146491751074791,Excitement
+Returning customers,In-flight Entertainment,-0.29528666,0.27328417,-0.07606520503759384,-0.004458942369092292,Performance
+Returning customers,Baggage Handling,0.22118774,0.6927285,1.0,1.0,Excitement
+First-time customers,Departure and Arrival Time Convenience,-0.07113195,-0.31779408,-1.0,-1.0,Reversed
+First-time customers,Ease of Online Booking,-0.1133913,0.2542476,0.34118881449103355,0.4205160737037658,Excitement
+First-time customers,Check-in Service,-0.37826836,0.27847016,-0.19190688617527485,-0.11144031640142206,Performance
+First-time customers,Online Boarding,-0.056418538,2.673665,0.9372174620628357,0.9806756123900413,Excitement
+First-time customers,Gate Location,0.19291277,-0.1691283,,,Reversed
+First-time customers,On-board Service,-0.22419217,0.19968696,-0.09131643790751695,-0.013598456396721312,Performance
+First-time customers,Seat Comfort,0.10211887,0.36148936,1.0,1.0,Excitement
+First-time customers,Leg Room Service,-0.01838994,0.23877798,0.7975416630506516,0.9184777647256851,Excitement
+First-time customers,Cleanliness,-0.1341463,0.16141675,0.05425908993929625,0.12840846925973892,Performance
+First-time customers,Food and Drink,-0.06108121,0.022798952,-0.5263568297028541,-0.38315876051783565,Weak
+First-time customers,In-flight Service,0.37292233,0.5714041,1.0,1.0,Excitement
+First-time customers,In-flight Wifi Service,-0.5828794,4.382489,0.7467774212360382,0.7814376220107079,Excitement
+First-time customers,In-flight Entertainment,-0.22910918,0.110735305,-0.41695950776338575,-0.28899487704038623,Basic
+First-time customers,Baggage Handling,0.36169147,0.604522,1.0,1.0,Excitement

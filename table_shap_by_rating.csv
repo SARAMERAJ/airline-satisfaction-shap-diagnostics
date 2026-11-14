@@ -1,0 +1,211 @@
+Attribute,Segment,Rating,Passengers,Mean SHAP
+Departure and Arrival Time Convenience,All,1,2232,0.15185629
+Departure and Arrival Time Convenience,All,2,2515,0.20695482
+Departure and Arrival Time Convenience,All,3,2544,0.16358398
+Departure and Arrival Time Convenience,All,4,3651,-0.13981546
+Departure and Arrival Time Convenience,All,5,3261,-0.3242984
+Departure and Arrival Time Convenience,Business travel,1,1840,0.15901585
+Departure and Arrival Time Convenience,Business travel,2,2059,0.22002083
+Departure and Arrival Time Convenience,Business travel,3,2011,0.1785597
+Departure and Arrival Time Convenience,Business travel,4,1986,-0.08059752
+Departure and Arrival Time Convenience,Business travel,5,1770,-0.27749893
+Departure and Arrival Time Convenience,Personal travel,1,392,0.11825015
+Departure and Arrival Time Convenience,Personal travel,2,456,0.14795718
+Departure and Arrival Time Convenience,Personal travel,3,533,0.10708091
+Departure and Arrival Time Convenience,Personal travel,4,1665,-0.21045017
+Departure and Arrival Time Convenience,Personal travel,5,1491,-0.37985513
+Ease of Online Booking,All,1,2577,-0.12227241
+Ease of Online Booking,All,2,3459,-0.108963
+Ease of Online Booking,All,3,3494,-0.013701074
+Ease of Online Booking,All,4,2804,0.17133519
+Ease of Online Booking,All,5,2008,0.21609038
+Ease of Online Booking,Business travel,1,1754,-0.10005234
+Ease of Online Booking,Business travel,2,2178,-0.0649385
+Ease of Online Booking,Business travel,3,2151,0.00028822446
+Ease of Online Booking,Business travel,4,2086,0.14459872
+Ease of Online Booking,Business travel,5,1761,0.18569283
+Ease of Online Booking,Personal travel,1,823,-0.16962846
+Ease of Online Booking,Personal travel,2,1281,-0.18381496
+Ease of Online Booking,Personal travel,3,1343,-0.03610687
+Ease of Online Booking,Personal travel,4,718,0.2490125
+Ease of Online Booking,Personal travel,5,247,0.43281147
+Check-in Service,All,1,1854,-0.5031057
+Check-in Service,All,2,1803,-0.37473217
+Check-in Service,All,3,4215,-0.062276103
+Check-in Service,All,4,4109,-0.07898414
+Check-in Service,All,5,3019,0.79620653
+Check-in Service,Business travel,1,1315,-0.5848695
+Check-in Service,Business travel,2,1284,-0.4406124
+Check-in Service,Business travel,3,2886,-0.07309603
+Check-in Service,Business travel,4,2796,-0.09080773
+Check-in Service,Business travel,5,2051,0.88887006
+Check-in Service,Personal travel,1,539,-0.30362624
+Check-in Service,Personal travel,2,519,-0.2117451
+Check-in Service,Personal travel,3,1329,-0.038780008
+Check-in Service,Personal travel,4,1313,-0.053806126
+Check-in Service,Personal travel,5,968,0.5998709
+Online Boarding,All,1,1674,-1.5945009
+Online Boarding,All,2,2487,-1.5278854
+Online Boarding,All,3,3167,-1.6385361
+Online Boarding,All,4,4387,0.63986725
+Online Boarding,All,5,2935,2.321778
+Online Boarding,Business travel,1,962,-1.7772171
+Online Boarding,Business travel,2,1458,-1.7030075
+Online Boarding,Business travel,3,1961,-1.8300512
+Online Boarding,Business travel,4,3378,0.63195115
+Online Boarding,Business travel,5,2413,2.445161
+Online Boarding,Personal travel,1,712,-1.3476288
+Online Boarding,Personal travel,2,1029,-1.2797529
+Online Boarding,Personal travel,3,1206,-1.3271253
+Online Boarding,Personal travel,4,1009,0.6663694
+Online Boarding,Personal travel,5,522,1.7514268
+Gate Location,All,1,2496,0.17900738
+Gate Location,All,2,2785,0.122406214
+Gate Location,All,3,4222,-0.056390412
+Gate Location,All,4,3461,-0.20487346
+Gate Location,All,5,2036,-0.40840638
+Gate Location,Business travel,1,1795,0.22161277
+Gate Location,Business travel,2,1987,0.14944436
+Gate Location,Business travel,3,2560,-0.043287635
+Gate Location,Business travel,4,2299,-0.19015619
+Gate Location,Business travel,5,1691,-0.42356738
+Gate Location,Personal travel,1,701,0.06991091
+Gate Location,Personal travel,2,798,0.055081896
+Gate Location,Personal travel,3,1662,-0.07657278
+Gate Location,Personal travel,4,1162,-0.23399132
+Gate Location,Personal travel,5,345,-0.33409563
+On-board Service,All,1,1728,-0.23570074
+On-board Service,All,2,2098,-0.1867204
+On-board Service,All,3,3254,-0.060841624
+On-board Service,All,4,4497,0.017604163
+On-board Service,All,5,3422,0.3397169
+On-board Service,Business travel,1,1106,-0.28828597
+On-board Service,Business travel,2,1479,-0.21385989
+On-board Service,Business travel,3,2035,-0.07015665
+On-board Service,Business travel,4,3267,0.026767999
+On-board Service,Business travel,5,2444,0.36309564
+On-board Service,Personal travel,1,622,-0.14219704
+On-board Service,Personal travel,2,619,-0.1218751
+On-board Service,Personal travel,3,1219,-0.045291107
+On-board Service,Personal travel,4,1230,-0.0067358813
+On-board Service,Personal travel,5,978,0.281294
+Seat Comfort,All,1,1801,-0.12201736
+Seat Comfort,All,2,2079,-0.18958282
+Seat Comfort,All,3,2797,-0.35742363
+Seat Comfort,All,4,4610,-0.091082804
+Seat Comfort,All,5,3713,0.557823
+Seat Comfort,Business travel,1,1029,-0.16125943
+Seat Comfort,Business travel,2,1301,-0.23537984
+Seat Comfort,Business travel,3,1872,-0.4395212
+Seat Comfort,Business travel,4,3401,-0.10616193
+Seat Comfort,Business travel,5,2729,0.6196548
+Seat Comfort,Personal travel,1,772,-0.06971156
+Seat Comfort,Personal travel,2,778,-0.11299939
+Seat Comfort,Personal travel,3,925,-0.1912758
+Seat Comfort,Personal travel,4,1209,-0.048664164
+Seat Comfort,Personal travel,5,984,0.38634038
+Leg Room Service,All,1,1505,-0.2988281
+Leg Room Service,All,2,2903,-0.21030411
+Leg Room Service,All,3,2853,-0.2383635
+Leg Room Service,All,4,4146,0.06098553
+Leg Room Service,All,5,3530,0.30616695
+Leg Room Service,Business travel,1,994,-0.32581586
+Leg Room Service,Business travel,2,1807,-0.22243659
+Leg Room Service,Business travel,3,1726,-0.27188358
+Leg Room Service,Business travel,4,3124,0.07469175
+Leg Room Service,Business travel,5,2671,0.3551682
+Leg Room Service,Personal travel,1,511,-0.24633133
+Leg Room Service,Personal travel,2,1096,-0.19030099
+Leg Room Service,Personal travel,3,1127,-0.18702753
+Leg Room Service,Personal travel,4,1022,0.019089026
+Leg Room Service,Personal travel,5,859,0.15380089
+Cleanliness,All,1,1963,-0.19942045
+Cleanliness,All,2,2307,-0.19494094
+Cleanliness,All,3,3627,-0.010960627
+Cleanliness,All,4,3914,0.011964986
+Cleanliness,All,5,3189,0.45485333
+Cleanliness,Business travel,1,1189,-0.25258705
+Cleanliness,Business travel,2,1495,-0.23668467
+Cleanliness,Business travel,3,2530,-0.0100301355
+Cleanliness,Business travel,4,2845,0.01622037
+Cleanliness,Business travel,5,2273,0.49248767
+Cleanliness,Personal travel,1,774,-0.11774716
+Cleanliness,Personal travel,2,812,-0.11808519
+Cleanliness,Personal travel,3,1097,-0.013106613
+Cleanliness,Personal travel,4,1069,0.0006398512
+Cleanliness,Personal travel,5,916,0.36146578
+Food and Drink,All,1,1905,-0.08721363
+Food and Drink,All,2,3150,-0.019025518
+Food and Drink,All,3,3249,0.011891346
+Food and Drink,All,4,3521,0.036910295
+Food and Drink,All,5,3161,-0.009474774
+Food and Drink,Business travel,1,1161,-0.110621504
+Food and Drink,Business travel,2,2155,-0.022226548
+Food and Drink,Business travel,3,2223,0.013026324
+Food and Drink,Business travel,4,2528,0.044350684
+Food and Drink,Business travel,5,2260,-0.00499698
+Food and Drink,Personal travel,1,744,-0.050686028
+Food and Drink,Personal travel,2,995,-0.012092634
+Food and Drink,Personal travel,3,1026,0.009432227
+Food and Drink,Personal travel,4,993,0.017968396
+Food and Drink,Personal travel,5,901,-0.020706533
+In-flight Service,All,1,1081,-0.02244458
+In-flight Service,All,2,1561,-0.13089879
+In-flight Service,All,3,2923,-0.34495527
+In-flight Service,All,4,5468,-0.078893855
+In-flight Service,All,5,3966,0.53223884
+In-flight Service,Business travel,1,672,-0.034926914
+In-flight Service,Business travel,2,1103,-0.1620519
+In-flight Service,Business travel,3,2010,-0.40773186
+In-flight Service,Business travel,4,3812,-0.09152433
+In-flight Service,Business travel,5,2734,0.56799823
+In-flight Service,Personal travel,1,409,-0.0019357058
+In-flight Service,Personal travel,2,458,-0.055872843
+In-flight Service,Personal travel,3,913,-0.20675056
+In-flight Service,Personal travel,4,1656,-0.049819376
+In-flight Service,Personal travel,5,1232,0.4528831
+In-flight Wifi Service,All,1,2633,-1.8406919
+In-flight Wifi Service,All,2,3735,-1.3906463
+In-flight Wifi Service,All,3,3733,-1.2893814
+In-flight Wifi Service,All,4,2799,1.2498057
+In-flight Wifi Service,All,5,1631,5.500852
+In-flight Wifi Service,Business travel,1,1766,-1.453436
+In-flight Wifi Service,Business travel,2,2382,-1.0603019
+In-flight Wifi Service,Business travel,3,2310,-0.9641198
+In-flight Wifi Service,Business travel,4,2058,0.9347835
+In-flight Wifi Service,Business travel,5,1443,5.125053
+In-flight Wifi Service,Personal travel,1,867,-2.629497
+In-flight Wifi Service,Personal travel,2,1353,-1.972228
+In-flight Wifi Service,Personal travel,3,1423,-1.8173888
+In-flight Wifi Service,Personal travel,4,741,2.1247253
+In-flight Wifi Service,Personal travel,5,188,8.385309
+In-flight Entertainment,All,1,1865,-0.5023287
+In-flight Entertainment,All,2,2524,-0.14456189
+In-flight Entertainment,All,3,2784,-0.018440178
+In-flight Entertainment,All,4,4247,0.34213063
+In-flight Entertainment,All,5,3579,0.09698666
+In-flight Entertainment,Business travel,1,1024,-0.65173596
+In-flight Entertainment,Business travel,2,1600,-0.17959988
+In-flight Entertainment,Business travel,3,1777,-0.03741465
+In-flight Entertainment,Business travel,4,3257,0.39279768
+In-flight Entertainment,Business travel,5,2673,0.11388489
+In-flight Entertainment,Personal travel,1,841,-0.3204107
+In-flight Entertainment,Personal travel,2,924,-0.08389003
+In-flight Entertainment,Personal travel,3,1007,0.015043079
+In-flight Entertainment,Personal travel,4,990,0.17544127
+In-flight Entertainment,Personal travel,5,906,0.047131307
+Baggage Handling,All,1,1052,-0.12419633
+Baggage Handling,All,2,1650,-0.27495086
+Baggage Handling,All,3,2952,-0.45211783
+Baggage Handling,All,4,5449,-0.048307933
+Baggage Handling,All,5,3897,0.60091996
+Baggage Handling,Business travel,1,623,-0.18468048
+Baggage Handling,Business travel,2,1149,-0.33204925
+Baggage Handling,Business travel,3,2045,-0.52064383
+Baggage Handling,Business travel,4,3832,-0.057649847
+Baggage Handling,Business travel,5,2683,0.6443393
+Baggage Handling,Personal travel,1,429,-0.036360398
+Baggage Handling,Personal travel,2,501,-0.14400065
+Baggage Handling,Personal travel,3,907,-0.29761326
+Baggage Handling,Personal travel,4,1617,-0.02616926
+Baggage Handling,Personal travel,5,1214,0.50496125

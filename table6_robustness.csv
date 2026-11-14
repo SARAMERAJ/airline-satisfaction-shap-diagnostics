@@ -1,0 +1,11 @@
+Analysis,In-flight Wifi Service,Online Boarding
+"Main analysis (path-dependent, log-odds)",1.66 (1.48 to 1.84),−0.81 (−0.86 to −0.77)
+"Interventional SHAP, log-odds",1.82 (1.63 to 2.01),−0.70 (−0.74 to −0.67)
+"Interventional SHAP, probability (percentage points)",3.66 (2.30 to 5.02),−5.99 (−6.19 to −5.79)
+Common rating distribution within the 1–3 and 4–5 bins,2.91 (2.87 to 2.96),−0.72 (−0.74 to −0.69)
+Standardised for cabin class,1.29 (1.02 to 1.60),−0.57 (−0.64 to −0.50)
+"Standardised for class, customer type and flight distance",2.04 (1.40 to 2.37),−0.65 (−0.78 to −0.57)
+Refitted without passengers with any zero rating,1.88 (1.72 to 2.03),−0.90 (−0.95 to −0.85)
+"Service × travel-type interaction term only (5,000 passengers)",2.27 (2.21 to 2.32),−0.68 (−0.72 to −0.64)
+5 × 5 repeated CV with refitting: mean (range over 25 folds),1.94 (1.51 to 2.53),−0.88 (−0.96 to −0.79)
+Refitted without ease of online booking,1.71 (1.52 to 1.90),−0.77 (−0.82 to −0.73)

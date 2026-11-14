@@ -1,0 +1,43 @@
+Scale,Attribute,All,Business travel,Personal travel,Mean |SHAP|
+"Path-dependent, log-odds",Departure and Arrival Time Convenience,-0.4018067,-0.36030626,-0.41423124,0.22908759
+"Path-dependent, log-odds",Ease of Online Booking,0.26764706,0.2154086,0.41893604,0.14328164
+"Path-dependent, log-odds",Check-in Service,0.52935934,0.60556537,0.35978967,0.31392887
+"Path-dependent, log-odds",Online Boarding,2.9049795,3.163651,2.3518617,1.4287616
+"Path-dependent, log-odds",Gate Location,-0.33809558,-0.3811507,-0.24605705,0.19789942
+"Path-dependent, log-odds",On-board Service,0.2976177,0.33907726,0.20990643,0.16201143
+"Path-dependent, log-odds",Seat Comfort,0.4400695,0.52513707,0.27527446,0.28050727
+"Path-dependent, log-odds",Leg Room Service,0.41341606,0.4679557,0.28003216,0.21850221
+"Path-dependent, log-odds",Cleanliness,0.32236087,0.35807064,0.24221194,0.17164275
+"Path-dependent, log-odds",Food and Drink,0.03753922,0.047664218,0.014060333,0.042726133
+"Path-dependent, log-odds",In-flight Service,0.40028697,0.45388013,0.2854977,0.2713141
+"Path-dependent, log-odds",In-flight Wifi Service,4.2854543,3.7952821,5.459838,2.1090517
+"Path-dependent, log-odds",In-flight Entertainment,0.4186526,0.4991187,0.23383689,0.25251666
+"Path-dependent, log-odds",Baggage Handling,0.5618019,0.6404803,0.3962999,0.3305102
+"Interventional, log-odds",Departure and Arrival Time Convenience,-0.4319076,-0.3765186,-0.42667556,0.24782552
+"Interventional, log-odds",Ease of Online Booking,0.33836544,0.2842784,0.45795876,0.16533782
+"Interventional, log-odds",Check-in Service,0.5116363,0.59427035,0.327085,0.31442162
+"Interventional, log-odds",Online Boarding,1.2718801,1.4738941,0.7751237,0.6640333
+"Interventional, log-odds",Gate Location,-0.35722405,-0.41256666,-0.25156054,0.22491254
+"Interventional, log-odds",On-board Service,0.25072286,0.30141765,0.14505297,0.16011588
+"Interventional, log-odds",Seat Comfort,0.442784,0.5536233,0.22580525,0.2816788
+"Interventional, log-odds",Leg Room Service,0.40978146,0.4803385,0.21734768,0.2139935
+"Interventional, log-odds",Cleanliness,0.33969545,0.39575404,0.22005561,0.19506644
+"Interventional, log-odds",Food and Drink,0.045465197,0.06015881,0.010219039,0.0479543
+"Interventional, log-odds",In-flight Service,0.4349638,0.51283455,0.2694444,0.30807698
+"Interventional, log-odds",In-flight Wifi Service,4.7048564,4.169967,5.9903765,2.2403235
+"Interventional, log-odds",In-flight Entertainment,0.1323678,0.17811641,0.03419118,0.19174811
+"Interventional, log-odds",Baggage Handling,0.58059156,0.6830052,0.36584258,0.36307555
+"Interventional, probability (pp)",Departure and Arrival Time Convenience,-1.7469144,-1.626018,-1.2704372,1.1014463
+"Interventional, probability (pp)",Ease of Online Booking,1.7278552,1.5658107,1.988768,0.85665417
+"Interventional, probability (pp)",Check-in Service,2.7327495,3.4330192,1.2025111,1.70697
+"Interventional, probability (pp)",Online Boarding,7.541833,9.151051,3.1615412,4.137805
+"Interventional, probability (pp)",Gate Location,-1.4019437,-1.706516,-0.8533936,1.1466084
+"Interventional, probability (pp)",On-board Service,1.3855636,1.7477742,0.56409067,0.88344556
+"Interventional, probability (pp)",Seat Comfort,2.4888418,3.2243094,0.8718662,1.5930456
+"Interventional, probability (pp)",Leg Room Service,2.3396437,2.8155332,0.98791295,1.2547929
+"Interventional, probability (pp)",Cleanliness,1.8878919,2.355751,0.80024475,1.1171113
+"Interventional, probability (pp)",Food and Drink,0.25498658,0.34434196,0.034718785,0.25049978
+"Interventional, probability (pp)",In-flight Service,2.3498607,2.957598,1.0233407,1.7061636
+"Interventional, probability (pp)",In-flight Wifi Service,29.209293,27.663523,31.325172,13.870077
+"Interventional, probability (pp)",In-flight Entertainment,0.87164116,1.2179074,-0.00063093007,1.0582553
+"Interventional, probability (pp)",Baggage Handling,3.122068,3.919169,1.3857418,2.0676832

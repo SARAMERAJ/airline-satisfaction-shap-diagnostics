@@ -1,0 +1,57 @@
+Analysis,Attribute,Comparison,Difference,CI low,CI high
+"Interventional SHAP, log-odds",Departure and Arrival Time Convenience,Personal minus business,-0.05015695,-0.06093126609921455,-0.038331258296966556
+"Interventional SHAP, log-odds",Departure and Arrival Time Convenience,First-time minus returning,0.16857737,0.15408002361655235,0.181446822732687
+"Interventional SHAP, log-odds",Ease of Online Booking,Personal minus business,0.17368037,0.15571746230125427,0.18824232891201972
+"Interventional SHAP, log-odds",Ease of Online Booking,First-time minus returning,0.09471643,0.07724073752760888,0.11139659062027929
+"Interventional SHAP, log-odds",Check-in Service,Personal minus business,-0.26718536,-0.29075181037187575,-0.24533939808607103
+"Interventional SHAP, log-odds",Check-in Service,First-time minus returning,-0.0919655,-0.1205971136689186,-0.06365188509225847
+"Interventional SHAP, log-odds",Online Boarding,Personal minus business,-0.6987704,-0.7364797830581665,-0.6660005673766136
+"Interventional SHAP, log-odds",Online Boarding,First-time minus returning,-0.2722888,-0.3198809802532196,-0.22654488682746887
+"Interventional SHAP, log-odds",Gate Location,Personal minus business,0.16100612,0.14681232050061227,0.1747658472508192
+"Interventional SHAP, log-odds",Gate Location,First-time minus returning,0.12179065,0.10781420096755027,0.13654553890228271
+"Interventional SHAP, log-odds",On-board Service,Personal minus business,-0.15636468,-0.1675911821424961,-0.14549758806824684
+"Interventional SHAP, log-odds",On-board Service,First-time minus returning,-0.015299067,-0.030446374416351316,0.001815928518772112
+"Interventional SHAP, log-odds",Seat Comfort,Personal minus business,-0.32781807,-0.3468947224318981,-0.30906287431716917
+"Interventional SHAP, log-odds",Seat Comfort,First-time minus returning,-0.24941927,-0.2688377693295479,-0.23137984722852709
+"Interventional SHAP, log-odds",Leg Room Service,Personal minus business,-0.26299083,-0.2735751077532768,-0.25286116972565653
+"Interventional SHAP, log-odds",Leg Room Service,First-time minus returning,-0.26308447,-0.27244838923215864,-0.25213448852300646
+"Interventional SHAP, log-odds",Cleanliness,Personal minus business,-0.17569843,-0.1889082133769989,-0.159906255453825
+"Interventional SHAP, log-odds",Cleanliness,First-time minus returning,-0.11675973,-0.1313160203397274,-0.10093600749969484
+"Interventional SHAP, log-odds",Food and Drink,Personal minus business,-0.049939774,-0.05402075685560703,-0.04635609788820148
+"Interventional SHAP, log-odds",Food and Drink,First-time minus returning,0.02658834,0.021987273078411817,0.031079202145338054
+"Interventional SHAP, log-odds",In-flight Service,Personal minus business,-0.24339014,-0.262950786203146,-0.22649665176868441
+"Interventional SHAP, log-odds",In-flight Service,First-time minus returning,-0.0097439885,-0.03648375049233436,0.019075343757867805
+"Interventional SHAP, log-odds",In-flight Wifi Service,Personal minus business,1.8204093,1.6314258217811584,2.005483043193817
+"Interventional SHAP, log-odds",In-flight Wifi Service,First-time minus returning,0.9914522,0.8052606105804443,1.1840253233909606
+"Interventional SHAP, log-odds",In-flight Entertainment,Personal minus business,-0.14392523,-0.158887517824769,-0.1309181500226259
+"Interventional SHAP, log-odds",In-flight Entertainment,First-time minus returning,-0.13397817,-0.14936088882386683,-0.1157744612544775
+"Interventional SHAP, log-odds",Baggage Handling,Personal minus business,-0.31716263,-0.3380015142261982,-0.29681014344096185
+"Interventional SHAP, log-odds",Baggage Handling,First-time minus returning,-0.1580537,-0.18383749276399614,-0.12869828045368195
+"Interventional SHAP, probability scale (percentage points)",Departure and Arrival Time Convenience,Personal minus business,0.3555808,0.3035900890827179,0.4108928769826889
+"Interventional SHAP, probability scale (percentage points)",Departure and Arrival Time Convenience,First-time minus returning,1.1590346,1.0829630494117737,1.230144739151001
+"Interventional SHAP, probability scale (percentage points)",Ease of Online Booking,Personal minus business,0.4229573,0.31972971856594085,0.5164672076702118
+"Interventional SHAP, probability scale (percentage points)",Ease of Online Booking,First-time minus returning,0.86456,0.7538616299629212,0.9727978348731994
+"Interventional SHAP, probability scale (percentage points)",Check-in Service,Personal minus business,-2.230508,-2.365953063964844,-2.082569789886475
+"Interventional SHAP, probability scale (percentage points)",Check-in Service,First-time minus returning,-0.6401305,-0.8134018421173096,-0.46898379921913147
+"Interventional SHAP, probability scale (percentage points)",Online Boarding,Personal minus business,-5.9895096,-6.194589173793792,-5.79206622838974
+"Interventional SHAP, probability scale (percentage points)",Online Boarding,First-time minus returning,-1.5617733,-1.8720068097114564,-1.2605814456939697
+"Interventional SHAP, probability scale (percentage points)",Gate Location,Personal minus business,0.8531224,0.7860062837600708,0.9180581033229828
+"Interventional SHAP, probability scale (percentage points)",Gate Location,First-time minus returning,0.4307121,0.35148229598999026,0.511691889166832
+"Interventional SHAP, probability scale (percentage points)",On-board Service,Personal minus business,-1.1836836,-1.2389507204294206,-1.1278928697109223
+"Interventional SHAP, probability scale (percentage points)",On-board Service,First-time minus returning,-0.20361793,-0.3005548775196075,-0.09652241170406346
+"Interventional SHAP, probability scale (percentage points)",Seat Comfort,Personal minus business,-2.3524432,-2.450673997402191,-2.251979613304138
+"Interventional SHAP, probability scale (percentage points)",Seat Comfort,First-time minus returning,-1.7231286,-1.8453462421894073,-1.6095497876405715
+"Interventional SHAP, probability scale (percentage points)",Leg Room Service,Personal minus business,-1.8276203,-1.8886476784944535,-1.7704806745052337
+"Interventional SHAP, probability scale (percentage points)",Leg Room Service,First-time minus returning,-1.5790725,-1.6445283830165862,-1.51024409532547
+"Interventional SHAP, probability scale (percentage points)",Cleanliness,Personal minus business,-1.5555062,-1.635303220152855,-1.4633970946073531
+"Interventional SHAP, probability scale (percentage points)",Cleanliness,First-time minus returning,-0.9420521,-1.0344781011343003,-0.8384025484323502
+"Interventional SHAP, probability scale (percentage points)",Food and Drink,Personal minus business,-0.30962318,-0.3307940877974033,-0.2916366957128048
+"Interventional SHAP, probability scale (percentage points)",Food and Drink,First-time minus returning,0.03360477,0.008642365410923959,0.058603489398956266
+"Interventional SHAP, probability scale (percentage points)",In-flight Service,Personal minus business,-1.9342573,-2.0440084040164948,-1.8245437681674959
+"Interventional SHAP, probability scale (percentage points)",In-flight Service,First-time minus returning,-0.2385292,-0.40886295437812803,-0.0681800603866579
+"Interventional SHAP, probability scale (percentage points)",In-flight Wifi Service,Personal minus business,3.6616497,2.30101318359375,5.022980070114135
+"Interventional SHAP, probability scale (percentage points)",In-flight Wifi Service,First-time minus returning,7.7572746,6.612196016311645,8.941400480270385
+"Interventional SHAP, probability scale (percentage points)",In-flight Entertainment,Personal minus business,-1.2185384,-1.291124451160431,-1.1462012499570846
+"Interventional SHAP, probability scale (percentage points)",In-flight Entertainment,First-time minus returning,-1.0255063,-1.1082063049077988,-0.930311031639576
+"Interventional SHAP, probability scale (percentage points)",Baggage Handling,Personal minus business,-2.5334272,-2.661088889837265,-2.4155728816986084
+"Interventional SHAP, probability scale (percentage points)",Baggage Handling,First-time minus returning,-0.9998288,-1.1669860422611236,-0.8399983882904053

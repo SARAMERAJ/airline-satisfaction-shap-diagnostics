@@ -1,0 +1,29 @@
+Analysis,Attribute,Comparison,Difference,CI low,CI high
+Refit without passengers with any zero rating,Departure and Arrival Time Convenience,Personal minus Business,-0.0535203160535217,-0.06267982076431304,-0.043324941465325395
+Refit without passengers with any zero rating,Departure and Arrival Time Convenience,First-time minus Returning,0.1708101508626832,0.16074160394206252,0.1826278028212025
+Refit without passengers with any zero rating,Ease of Online Booking,Personal minus Business,0.2048308150632081,0.18803303407832103,0.22181331536325552
+Refit without passengers with any zero rating,Ease of Online Booking,First-time minus Returning,0.04966379160702436,0.037311603641674594,0.06325879430258977
+Refit without passengers with any zero rating,Check-in Service,Personal minus Business,-0.23421498032356475,-0.25731236498436727,-0.2108950213028892
+Refit without passengers with any zero rating,Check-in Service,First-time minus Returning,-0.041676799612975324,-0.0731125033971592,-0.01124962048575899
+Refit without passengers with any zero rating,Online Boarding,Personal minus Business,-0.8981764157651684,-0.9453524428679239,-0.8533729264951679
+Refit without passengers with any zero rating,Online Boarding,First-time minus Returning,-0.297399287343755,-0.36499394020660025,-0.22845173654777148
+Refit without passengers with any zero rating,Gate Location,Personal minus Business,0.12134901279566293,0.1105958283478542,0.13306494835200658
+Refit without passengers with any zero rating,Gate Location,First-time minus Returning,0.0780262094148717,0.06560417322028501,0.09139740118396238
+Refit without passengers with any zero rating,On-board Service,Personal minus Business,-0.14427731077979744,-0.15548951400888741,-0.1341959404873512
+Refit without passengers with any zero rating,On-board Service,First-time minus Returning,0.0279873524844928,0.008684426856683077,0.04468662509563162
+Refit without passengers with any zero rating,Seat Comfort,Personal minus Business,-0.24686045367421122,-0.26644794640885866,-0.22925380052201774
+Refit without passengers with any zero rating,Seat Comfort,First-time minus Returning,-0.16091247137106307,-0.18278528841731426,-0.13979635505176258
+Refit without passengers with any zero rating,Leg Room Service,Personal minus Business,-0.1817495128952038,-0.19069810453812414,-0.17265212224276347
+Refit without passengers with any zero rating,Leg Room Service,First-time minus Returning,-0.17804841170694324,-0.18779620525856003,-0.16957012379546782
+Refit without passengers with any zero rating,Cleanliness,Personal minus Business,-0.12818285264326063,-0.14412389955445995,-0.11278141109967746
+Refit without passengers with any zero rating,Cleanliness,First-time minus Returning,-0.08128951648726823,-0.09658555441278088,-0.06487907246145247
+Refit without passengers with any zero rating,Food and Drink,Personal minus Business,-0.02619853095381118,-0.029642114471282406,-0.022951733688051028
+Refit without passengers with any zero rating,Food and Drink,First-time minus Returning,0.01339946903578762,0.009256805923894131,0.0178444264551463
+Refit without passengers with any zero rating,In-flight Service,Personal minus Business,-0.1717188721483484,-0.18832775428125656,-0.1538899795351649
+Refit without passengers with any zero rating,In-flight Service,First-time minus Returning,0.042107773365224144,0.01858851235397584,0.06776822035037738
+Refit without passengers with any zero rating,In-flight Wifi Service,Personal minus Business,1.8842330929342683,1.7207349895071502,2.0279205732629424
+Refit without passengers with any zero rating,In-flight Wifi Service,First-time minus Returning,0.41168310613484715,0.2200698895718373,0.5947419716091017
+Refit without passengers with any zero rating,In-flight Entertainment,Personal minus Business,-0.32577966971449346,-0.34187207268462033,-0.3108186495856173
+Refit without passengers with any zero rating,In-flight Entertainment,First-time minus Returning,-0.20208100188024236,-0.21943351531151634,-0.1836420528790644
+Refit without passengers with any zero rating,Baggage Handling,Personal minus Business,-0.25133494167907894,-0.26995973788563127,-0.23233374013865365
+Refit without passengers with any zero rating,Baggage Handling,First-time minus Returning,-0.11693399023089324,-0.14384912318760393,-0.08986725439772057

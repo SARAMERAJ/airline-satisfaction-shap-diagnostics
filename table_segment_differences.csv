@@ -1,0 +1,29 @@
+Analysis,Attribute,Comparison,Difference,CI low,CI high
+"Main (path-dependent, log-odds)",Departure and Arrival Time Convenience,Personal minus Business,-0.053924978,-0.06384042948484421,-0.044157063215971
+"Main (path-dependent, log-odds)",Departure and Arrival Time Convenience,First-time minus Returning,0.15479696,0.1403655879199505,0.16700658202171326
+"Main (path-dependent, log-odds)",Ease of Online Booking,Personal minus Business,0.20352745,0.18832941837608813,0.21839407533407212
+"Main (path-dependent, log-odds)",Ease of Online Booking,First-time minus Returning,0.072285384,0.058453090488910675,0.0858131155371666
+"Main (path-dependent, log-odds)",Check-in Service,Personal minus Business,-0.2457757,-0.26868561282753944,-0.22369934394955635
+"Main (path-dependent, log-odds)",Check-in Service,First-time minus Returning,-0.077888936,-0.10745774209499359,-0.047706642746925376
+"Main (path-dependent, log-odds)",Online Boarding,Personal minus Business,-0.8117893,-0.8605636954307556,-0.7716817677021026
+"Main (path-dependent, log-odds)",Online Boarding,First-time minus Returning,-0.2055521,-0.2599859833717346,-0.15248903632164001
+"Main (path-dependent, log-odds)",Gate Location,Personal minus Business,0.13509364,0.1224553719162941,0.14832109957933426
+"Main (path-dependent, log-odds)",Gate Location,First-time minus Returning,0.10119173,0.08617982119321824,0.11594386510550975
+"Main (path-dependent, log-odds)",On-board Service,Personal minus Business,-0.12917084,-0.1403621517121792,-0.11893958821892739
+"Main (path-dependent, log-odds)",On-board Service,First-time minus Returning,0.015295625,-0.0001129895448684692,0.03183080628514289
+"Main (path-dependent, log-odds)",Seat Comfort,Personal minus Business,-0.24986261,-0.2688600555062294,-0.23131390511989594
+"Main (path-dependent, log-odds)",Seat Comfort,First-time minus Returning,-0.18748203,-0.20669691935181617,-0.16774251759052278
+"Main (path-dependent, log-odds)",Leg Room Service,Personal minus Business,-0.18792355,-0.1972321890294552,-0.17893778756260872
+"Main (path-dependent, log-odds)",Leg Room Service,First-time minus Returning,-0.19983673,-0.20867654904723168,-0.19001363813877106
+"Main (path-dependent, log-odds)",Cleanliness,Personal minus Business,-0.115858704,-0.12943124994635583,-0.10085603520274163
+"Main (path-dependent, log-odds)",Cleanliness,First-time minus Returning,-0.089793876,-0.10309047251939774,-0.07581942975521089
+"Main (path-dependent, log-odds)",Food and Drink,Personal minus Business,-0.033603884,-0.037097328528761866,-0.030305632110685113
+"Main (path-dependent, log-odds)",Food and Drink,First-time minus Returning,0.031065814,0.02688520597293973,0.03567851735278964
+"Main (path-dependent, log-odds)",In-flight Service,Personal minus Business,-0.16838244,-0.18550502508878708,-0.15307788625359536
+"Main (path-dependent, log-odds)",In-flight Service,First-time minus Returning,0.034133583,0.010417262464761734,0.05775920525193212
+"Main (path-dependent, log-odds)",In-flight Wifi Service,Personal minus Business,1.6645558,1.4774802088737489,1.8383171558380125
+"Main (path-dependent, log-odds)",In-flight Wifi Service,First-time minus Returning,0.57876253,0.403684139251709,0.759796130657196
+"Main (path-dependent, log-odds)",In-flight Entertainment,Personal minus Business,-0.2652818,-0.28051235228776933,-0.2520411677658558
+"Main (path-dependent, log-odds)",In-flight Entertainment,First-time minus Returning,-0.18956539,-0.20558417364954948,-0.17129791229963304
+"Main (path-dependent, log-odds)",Baggage Handling,Personal minus Business,-0.24418038,-0.2625161409378052,-0.2253324866294861
+"Main (path-dependent, log-odds)",Baggage Handling,First-time minus Returning,-0.11107385,-0.13577969521284103,-0.08451344296336175

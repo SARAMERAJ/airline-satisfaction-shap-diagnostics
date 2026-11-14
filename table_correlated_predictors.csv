@@ -1,0 +1,5 @@
+Method,"Wi-Fi only, business","Wi-Fi only, personal","Wi-Fi + booking, business","Wi-Fi + booking, personal",Wi-Fi + booking P-B,Refit P-B,Mean |SHAP| refit,Mean |SHAP| main,"Booking only, business","Booking only, personal"
+Path-dependent,3.7952821254730225,5.459837913513184,3.9409525394439697,5.8453369140625,1.9043843746185303,,,,,
+Interventional,4.169967174530029,5.9903764724731445,4.377595901489258,6.39199161529541,2.0143957138061523,,,,,
+Refit without Ease of Online Booking: In-flight Wifi Service,4.005191802978516,5.717253684997559,,,,1.712061882019043,2.1988344192504883,2.1090517044067383,,
+Refit without In-flight Wifi Service: Ease of Online Booking,,,,,,1.1894783973693848,0.6940053105354309,0.14328163862228394,1.0878641605377197,2.2773425579071045

@@ -1,0 +1,7 @@
+Type of Travel,Class,Passengers,Satisfied (%),Neutral or dissatisfied (%)
+Business,Business,59487,72.0,28.0
+Business,Economy,25304,29.9,70.1
+Business,Economy Plus,4902,39.3,60.7
+Personal,Business,2673,11.7,88.3
+Personal,Economy,33005,10.2,89.8
+Personal,Economy Plus,4509,8.7,91.3

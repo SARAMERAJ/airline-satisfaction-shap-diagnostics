@@ -1,0 +1,57 @@
+Analysis,Attribute,Comparison,Difference,CI low,CI high
+Common rating distribution within bins,Departure and Arrival Time Convenience,Personal minus business,-0.05460183234203175,-0.06334411647414778,-0.04560954019164466
+Common rating distribution within bins,Ease of Online Booking,Personal minus business,0.2392680115366026,0.22204926849583043,0.25647423712502393
+Common rating distribution within bins,Check-in Service,Personal minus business,-0.23810492662709415,-0.2503911514838305,-0.2272586781586068
+Common rating distribution within bins,Online Boarding,Personal minus business,-0.7165929904235564,-0.7417709367152171,-0.693363729182395
+Common rating distribution within bins,Gate Location,Personal minus business,0.08782698660104077,0.07668774477816642,0.0997865296296005
+Common rating distribution within bins,On-board Service,Personal minus business,-0.12871612488764023,-0.13547200224614037,-0.12246364644757178
+Common rating distribution within bins,Seat Comfort,Personal minus business,-0.23902620465540603,-0.24944592223910483,-0.22811347466653825
+Common rating distribution within bins,Leg Room Service,Personal minus business,-0.18530087136130857,-0.19395772137217906,-0.176626092276516
+Common rating distribution within bins,Cleanliness,Personal minus business,-0.13416177606685942,-0.1427837167231475,-0.12592694545967312
+Common rating distribution within bins,Food and Drink,Personal minus business,-0.03752100600442337,-0.0403426409090825,-0.03491988992014482
+Common rating distribution within bins,In-flight Service,Personal minus business,-0.16597825702078667,-0.17657881108886578,-0.1554580254459438
+Common rating distribution within bins,In-flight Wifi Service,Personal minus business,2.911272416593782,2.867873578547185,2.961363106516799
+Common rating distribution within bins,In-flight Entertainment,Personal minus business,-0.28866587370417185,-0.2992032170490746,-0.2770134984729077
+Common rating distribution within bins,Baggage Handling,Personal minus business,-0.2386832846489909,-0.25202923905727465,-0.22548562947671985
+Standardised for cabin class,Departure and Arrival Time Convenience,Personal minus business,-0.1351269445796672,-0.15668427166066387,-0.11499794859766735
+Standardised for cabin class,Ease of Online Booking,Personal minus business,0.152633354610154,0.13171102551377403,0.1724045305057639
+Standardised for cabin class,Check-in Service,Personal minus business,-0.20978078248699505,-0.25026539570262035,-0.16924788962890705
+Standardised for cabin class,Online Boarding,Personal minus business,-0.5657926018815805,-0.6398475556601437,-0.5040031200325936
+Standardised for cabin class,Gate Location,Personal minus business,0.033590936994552616,0.007869191044221326,0.058291709568326674
+Standardised for cabin class,On-board Service,Personal minus business,-0.10459136960108889,-0.12212081472277324,-0.08754243077504745
+Standardised for cabin class,Seat Comfort,Personal minus business,-0.1666941249469916,-0.19394583492279052,-0.13927666299864652
+Standardised for cabin class,Leg Room Service,Personal minus business,-0.05774687542337214,-0.07567904257643468,-0.04153133150268177
+Standardised for cabin class,Cleanliness,Personal minus business,-0.06095437223513922,-0.08673854709014296,-0.03289093614682556
+Standardised for cabin class,Food and Drink,Personal minus business,-0.03214575281600624,-0.03752572792807183,-0.02652523781000911
+Standardised for cabin class,In-flight Service,Personal minus business,-0.12882812215976852,-0.1543884454173214,-0.10492860508882863
+Standardised for cabin class,In-flight Wifi Service,Personal minus business,1.2918635463445516,1.0233302224314915,1.602578518801009
+Standardised for cabin class,In-flight Entertainment,Personal minus business,-0.17119677694064472,-0.19178737253449893,-0.14904796457554814
+Standardised for cabin class,Baggage Handling,Personal minus business,-0.15250545441309613,-0.18319718766942622,-0.12312515918696927
+"Standardised for class, customer type and distance",Departure and Arrival Time Convenience,Personal minus business,-0.09148649943650826,-0.12420079683606759,-0.057536912314108866
+"Standardised for class, customer type and distance",Ease of Online Booking,Personal minus business,0.18092304356813432,0.13613324578276884,0.20911324999547795
+"Standardised for class, customer type and distance",Check-in Service,Personal minus business,-0.25783864788635963,-0.32590718235750327,-0.21160418232316852
+"Standardised for class, customer type and distance",Online Boarding,Personal minus business,-0.6498571601711585,-0.782029752291533,-0.5729071549414422
+"Standardised for class, customer type and distance",Gate Location,Personal minus business,0.0518769197886223,0.005935984760599692,0.09748825033940398
+"Standardised for class, customer type and distance",On-board Service,Personal minus business,-0.12385374555444764,-0.1495919556687401,-0.09080053852959682
+"Standardised for class, customer type and distance",Seat Comfort,Personal minus business,-0.24118101300948752,-0.2802173587108198,-0.20352427035697557
+"Standardised for class, customer type and distance",Leg Room Service,Personal minus business,-0.12567160995509552,-0.15668264266824122,-0.09499888409343014
+"Standardised for class, customer type and distance",Cleanliness,Personal minus business,-0.09240616385867056,-0.12616984292152106,-0.04709561864592372
+"Standardised for class, customer type and distance",Food and Drink,Personal minus business,-0.023445021643544596,-0.03109070468606067,-0.01353734007028914
+"Standardised for class, customer type and distance",In-flight Service,Personal minus business,-0.10227052018604038,-0.14001777496098095,-0.06361097798555834
+"Standardised for class, customer type and distance",In-flight Wifi Service,Personal minus business,2.039378813117333,1.400245011911894,2.373772957321315
+"Standardised for class, customer type and distance",In-flight Entertainment,Personal minus business,-0.22481903854313362,-0.2641682866625062,-0.18800582233770458
+"Standardised for class, customer type and distance",Baggage Handling,Personal minus business,-0.14721308656258927,-0.203787023351548,-0.0996191509728084
+Strata + common rating distribution,Departure and Arrival Time Convenience,Personal minus business,-0.10316123732022549,-0.13219239580315306,-0.07018433498716967
+Strata + common rating distribution,Ease of Online Booking,Personal minus business,0.20034324828718875,0.1579462994410654,0.231418973515209
+Strata + common rating distribution,Check-in Service,Personal minus business,-0.2802834126383778,-0.34816592217700515,-0.25694331823530797
+Strata + common rating distribution,Online Boarding,Personal minus business,-0.6036594545201728,-0.6833223322027416,-0.5486361138366684
+Strata + common rating distribution,Gate Location,Personal minus business,-0.026220097068237375,-0.07284876464683761,0.011416191444046073
+Strata + common rating distribution,On-board Service,Personal minus business,-0.1553008529632768,-0.17265747766196735,-0.13262202203442439
+Strata + common rating distribution,Seat Comfort,Personal minus business,-0.21628007434857724,-0.2465966663825652,-0.17817973482958044
+Strata + common rating distribution,Leg Room Service,Personal minus business,-0.11460028954335295,-0.13898749672385444,-0.0877154096427367
+Strata + common rating distribution,Cleanliness,Personal minus business,-0.12412300062615975,-0.14925485734138771,-0.092625739430408
+Strata + common rating distribution,Food and Drink,Personal minus business,-0.03009202678350843,-0.03954919692840799,-0.022141612814342623
+Strata + common rating distribution,In-flight Service,Personal minus business,-0.16576120450600038,-0.19262857136763775,-0.14162196027062682
+Strata + common rating distribution,In-flight Wifi Service,Personal minus business,3.1325690281702303,2.746362204077017,3.217161045767157
+Strata + common rating distribution,In-flight Entertainment,Personal minus business,-0.2756509927362611,-0.31254424594826063,-0.24577875080443323
+Strata + common rating distribution,Baggage Handling,Personal minus business,-0.21987085966290748,-0.2657023657914119,-0.192988721375754
